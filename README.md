@@ -1,3 +1,6 @@
+# Name: Ashenafi Godana Kumbi
+# ID: UGR/7906/14
+
 # Jetpack Compose Course List App
 
 A simple Android application built with **Jetpack Compose** and styled using **Material 3** principles. This app displays a list of academic courses, each expandable to show additional details such as descriptions and prerequisites.
